@@ -1,1 +1,18 @@
 Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	
+
+	
+cd: cd skipunnin er notuð til að breyta núverandi möppu sem er verið að vinna í
+cd ~: fer með þig á home directory. t.d. cd~ = cd /home/username 
+ls: skipun til að telja allar skránar
+pwd: til að prenta vinnumöppu (möppuni sem þú ert í)
+mkdir: Stytting á "make directory", mkdir er notað til að búa til möppur í file system
+
+2. Hvað gera eftirfarandi git skipanir:
+
+git clone:Klón geymslu í nýja skrá
+git log git status: Sýnir commit log
+git diff: Sýnir skrá mismun
+git checkout: Skifta branches eða endurheimta tree files
