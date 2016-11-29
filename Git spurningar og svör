@@ -16,3 +16,10 @@ git clone:Klón geymslu í nýja skrá
 git log git status: Sýnir commit log
 git diff: Sýnir skrá mismun
 git checkout: Skifta branches eða endurheimta tree files
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+
+
+a) git diff: Sýnir mun á working directory og staging area
+b) git diff --staged: Sýnir mun á staging area og commit1(eitthvað sem var commitað)
+c) git diff commit1 commit2: sýnir mun á commit1 og commit2(eitthvað 2 sem voru commituð)
